@@ -2,9 +2,9 @@
 
 
 
-**Name:** Ashok Kumar Reddy Naguri
-**NUID:** 002817769
-**Email:** naguri.a@northeastern.edu
-**Department:** MGEN- Telecommunication Network
-**University:** Northeastern University
+**Name:** Ashok Kumar Reddy Naguri  
+**NUID:** 002817769  
+**Email:** naguri.a@northeastern.edu  
+**Department:** MGEN- Telecommunication Network  
+**University:** Northeastern University  
  
